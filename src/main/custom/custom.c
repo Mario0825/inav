@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define MAXIMUM_STRING_SIZE 150
+#define MAXIMUM_STRING_SIZE 50
 
 /*MDF*/
 void rt_OneStep(void);
